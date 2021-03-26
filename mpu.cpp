@@ -72,7 +72,7 @@ int main(){
 		Gz = Gyro_z/131;
 		
 		printf("\n Gx=%.3f °/s\tGy=%.3f °/s\tGz=%.3f °/s\tAx=%.3f g\tAy=%.3f g\tAz=%.3f g\n",Gx,Gy,Gz,Ax,Ay,Az);
-		delay(500);
+		delay(50);
 		
 	}
 	return 0;
